@@ -3,6 +3,7 @@ personal website of ayse pamuk
 
 ```
 cd ~/Documents/website/aysepamuk.github.io/
-git commit -am "message"
+git add .
+git commit -m "message"
 git push
 ```
